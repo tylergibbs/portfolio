@@ -1,0 +1,26 @@
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Date: 2017-01-16T11:20:08Z
+WARC-Record-ID: <urn:uuid:5272cd71-676e-42f3-936b-7bdf6d4a1177>
+Content-Length: 21
+Content-Type: application/warc-fields
+WARC-Warcinfo-ID: <urn:uuid:714ea504-2fc1-4d94-ab23-cc0dc05063e1>
+WARC-Concurrent-To: <urn:uuid:9200e08d-4972-4a8e-8d38-7d86c2e424aa>
+WARC-Target-URI: http://0lik.ru/cliparts/109382-kliparty-3-alfavita-s-diamantami.html
+
+fetchTimeMs: 1229
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Date: 2017-01-16T11:20:08Z
+WARC-Record-ID: <urn:uuid:5272cd71-676e-42f3-936b-7bdf6d4a1177>
+Content-Length: 21
+Content-Type: application/warc-fields
+WARC-Warcinfo-ID: <urn:uuid:714ea504-2fc1-4d94-ab23-cc0dc05063e1>
+WARC-Concurrent-To: <urn:uuid:9200e08d-4972-4a8e-8d38-7d86c2e424aa>
+WARC-Target-URI: http://0lik.ru/cliparts/109382-kliparty-3-alfavita-s-diamantami.html
+
+fetchTimeMs: 1229
+
+

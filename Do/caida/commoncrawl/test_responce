@@ -1,0 +1,67 @@
+
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2017-01-16T10:41:06Z
+WARC-Record-ID: <urn:uuid:74bbdd9e-5727-4737-ac61-ebeca877c12a>
+Content-Length: 153560
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:714ea504-2fc1-4d94-ab23-cc0dc05063e1>
+WARC-Concurrent-To: <urn:uuid:d47eb381-58a6-4603-98ef-c722662ce891>
+WARC-IP-Address: 216.58.192.193
+WARC-Target-URI: http://007beritaterkini.blogspot.com/2013/06/mereka-yang-mempunyai-ingatan.html
+WARC-Payload-Digest: sha1:B4MHEQA2UOJVP5EHLZPLCCLOINHXBE6N
+WARC-Block-Digest: sha1:OJ6LUNORGNXIOBDP2LV3S6U4M6K72MI7
+
+HTTP/1.0 200 OK
+ETag: W/"fb0f04c459c6a4ab432b1ab998619460f5931591bb583bf6eae2606b33937423"
+Content-Length: 153164
+Expires: Mon, 16 Jan 2017 10:41:06 GMT
+X-XSS-Protection: 1; mode=block
+Last-Modified: Mon, 09 Jan 2017 16:02:26 GMT
+Server: GSE
+X-Content-Type-Options: nosniff
+Cache-Control: private, max-age=0
+Date: Mon, 16 Jan 2017 10:41:06 GMT
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+This is html
+and other text
+lots of
+texts
+yes
+</html>
+
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2017-01-16T10:41:06Z
+WARC-Record-ID: <urn:uuid:74bbdd9e-5727-4737-ac61-ebeca877c12a>
+Content-Length: 153560
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:714ea504-2fc1-4d94-ab23-cc0dc05063e1>
+WARC-Concurrent-To: <urn:uuid:d47eb381-58a6-4603-98ef-c722662ce891>
+WARC-IP-Address: 216.58.192.193
+WARC-Target-URI: http://007beritaterkini.blogspot.com/2013/06/mereka-yang-mempunyai-ingatan.html
+WARC-Payload-Digest: sha1:B4MHEQA2UOJVP5EHLZPLCCLOINHXBE6N
+WARC-Block-Digest: sha1:OJ6LUNORGNXIOBDP2LV3S6U4M6K72MI7
+
+HTTP/1.0 200 OK
+ETag: W/"fb0f04c459c6a4ab432b1ab998619460f5931591bb583bf6eae2606b33937423"
+Content-Length: 153164
+Expires: Mon, 16 Jan 2017 10:41:06 GMT
+X-XSS-Protection: 1; mode=block
+Last-Modified: Mon, 09 Jan 2017 16:02:26 GMT
+Server: GSE
+X-Content-Type-Options: nosniff
+Cache-Control: private, max-age=0
+Date: Mon, 16 Jan 2017 10:41:06 GMT
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+This is html
+and other text
+lots of
+texts
+yes
+</html>
+bla bla bla

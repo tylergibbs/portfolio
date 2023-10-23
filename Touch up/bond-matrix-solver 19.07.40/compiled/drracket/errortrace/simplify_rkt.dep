@@ -1,0 +1,1 @@
+("6.3" ("5aba14f6bb44ea35dd4fbd0a31339fd25b83f161" . "85cc6b3aeace2e36af26ee59674e4c34f8f295e8") #"/Users/tylergibbs/Desktop/old rkt/bond-matrix-solver 19.07.40/equations.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"redex" #"main.rkt") (collects #"redex" #"reduction-semantics.rkt"))

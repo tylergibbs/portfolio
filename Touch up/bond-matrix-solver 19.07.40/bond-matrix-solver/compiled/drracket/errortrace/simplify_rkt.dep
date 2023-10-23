@@ -1,0 +1,1 @@
+("6.3" ("5aba14f6bb44ea35dd4fbd0a31339fd25b83f161" . "e355c66a8e9be3ba1a84ecea87b88bd557247187") #"/Applications/Racket v6.3/bin/bond/equations.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"redex" #"main.rkt") (collects #"redex" #"reduction-semantics.rkt"))

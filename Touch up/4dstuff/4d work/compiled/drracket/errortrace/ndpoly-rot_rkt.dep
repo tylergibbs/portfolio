@@ -1,0 +1,1 @@
+("6.9" ("0096321f12d24c9560e12ff720e68da9e72cab83" . "4e97479248ba1e0070fe0d5fe7b26eb4ada1f01f") #"/Users/tylergibbs/Desktop/old rkt/4d work/opvec.rkt" #"/Users/tylergibbs/Library/Racket/planet/300/6.9/cache/wmfarr/plt-linalg.plt/1/13/matrix.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
